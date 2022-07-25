@@ -35,6 +35,7 @@
 #include "../../../module/temperature.h"
 #include "../../../module/printcounter.h"
 #include "../../../module/motion.h"
+#include "../../../module/stepper.h"
 #include "../../../module/planner.h"
 
 #include "../../../gcode/gcode.h"
